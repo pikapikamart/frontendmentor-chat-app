@@ -79,6 +79,7 @@ main::after {
   -webkit-box-shadow: 0 0 40px rgba(0, 0, 0, 0.15);
           box-shadow: 0 0 40px rgba(0, 0, 0, 0.15);
   height: 505px;
+  min-width: 246px;
   padding: 11px 10px;
   width: 246px;
 }
@@ -428,12 +429,18 @@ main::after {
   background-color: white;
 }
 
+@media (max-width: 1230px) {
+  .container {
+    padding: 0 128px;
+  }
+}
+
 @media (max-width: 1100px) {
   body {
     max-height: auto;
   }
-  .container {
-    padding-left: 200px;
+  .header {
+    margin-left: 64px;
   }
 }
 
@@ -452,7 +459,7 @@ main::after {
   .container {
     display: block;
     margin-bottom: 1rem;
-    padding-left: 0;
+    padding: 0;
   }
   .phone {
     margin: 64px auto 70px;
