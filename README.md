@@ -59,5 +59,5 @@ I want to focus more on creating more complex designs and also designing things 
 ## Author
 
 - Website - Well I haven't made my profile portfolio, gonna make it sooon when I know a lot of stuffs
-- Frontend Mentor - [@pikamarst](https://www.frontendmentor.io/profile/pikamart)
+- Frontend Mentor - [@pikamart](https://www.frontendmentor.io/profile/pikamart)
 - Twitter - [@RaymartPamplona](https://twitter.com/RaymartPamplona)
